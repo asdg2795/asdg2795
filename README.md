@@ -48,3 +48,4 @@ Java와 Spring을 활용한 서버 개발을 주로 하며, API 설계 시 Restf
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@mangez_js)](https://velog.io/@mangez_js)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjs25682795@gmail.com)](mailto:kjs25682795@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:asdg2795@naver.com)](mailto:asdg2795@naver.com)
+ 
