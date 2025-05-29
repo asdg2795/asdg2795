@@ -1,18 +1,5 @@
 # Hi, I'm KimJunsu👋
 
-## 🙋‍♂️ About me
-
-안녕하세요! 저는 **새로운 경험을 통해 성장하는 것을 즐기는 백엔드 개발자** 김준수 입니다.
-
-Java와 Spring을 활용한 서버 개발을 주로 하며, API 설계 시 Restful 방식을 고려하며 개발합니다.
-
-💬**혼자보단 같이, 소통하며 성장하는 걸 좋아합니다.**
-
-다양한 경험을 하며 배운 건, **혼자보단 함께일 때 더 많이 배운다**는 것!
-
-팀 프로젝트나 대화를 통해 서로 배우고 성장하는 걸 즐깁니다.
-
-그래서 블로그에도 배운 걸 기록하며 공유하는 걸 좋아해요!
 
 ## Profile
 ![Junsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdg2795&show_icons=true&theme=radical)
