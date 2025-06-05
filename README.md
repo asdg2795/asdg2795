@@ -1,5 +1,11 @@
-# Hi, I'm KimJunsu👋
+# 백엔드 개발자 김준수입니다.
 
+## About me
+저는 “경험은 최고의 스승이다” 라는 좌우명을 바탕으로 직접 부딪히며 배우는 과정을 통해 성장해 나가는 백엔드 개발자 김준수입니다.
+
+Java와 Spring Boot를 주력으로 사용하고 있으며 특히 팀 프로젝트에서는 애자일한 방식으로 스크럼을 도입해 매일 짧은 스탠드업 미팅을 통해 진행 상황을 공유하고 문제를 빠르게 해결해 나갔습니다.
+
+이러한 경험을 통해 단순히 기술을 구현하는 것을 넘어서 팀원들과의 유기적인 소통과 협업이 프로젝트의 완성도를 높이는 핵심이라는 사실을 배웠습니다.
 
 ## Profile
 ![Junsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdg2795&show_icons=true&theme=radical)
